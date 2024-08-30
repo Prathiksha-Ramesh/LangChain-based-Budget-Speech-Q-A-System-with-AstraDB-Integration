@@ -82,11 +82,14 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## .gitignore
 The following files are ignored in the version control:
+
+```
 .env
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+```
 
 ## Contributing
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
