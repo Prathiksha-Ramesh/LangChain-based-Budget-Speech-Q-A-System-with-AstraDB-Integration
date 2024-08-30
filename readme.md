@@ -68,14 +68,14 @@ python app.py
 
 ## Files
 
--`app.py`: The main Python script that handles the LangChain logic, interaction with AstraDB, and Q&A functionality.
--`requirements.txt`: Lists all the Python dependencies needed to run the application.
--`.env`: Contains environment variables such as API keys and AstraDB credentials. This file should not be included in version control.
--`README.md`: This file, providing an overview of the project.
--`LICENSE`: The project's license, specifying how others may use the code.
--`.gitignore`: Specifies files and directories that should be ignored by Git, such as the .env file and any other sensitive information.
--`Budget_Speech.pdf`: The document that is used for the Q&A functionality.
--`notebook.ipynb`: A Jupyter notebook for interactive exploration and development of the Q&A system.
+- `app.py`: The main Python script that handles the LangChain logic, interaction with AstraDB, and Q&A functionality.
+- `requirements.txt`: Lists all the Python dependencies needed to run the application.
+- `.env`: Contains environment variables such as API keys and AstraDB credentials. This file should not be included in version control.
+- `README.md`: This file, providing an overview of the project.
+- `LICENSE`: The project's license, specifying how others may use the code.
+- `.gitignore`: Specifies files and directories that should be ignored by Git, such as the .env file and any other sensitive information.
+- `Budget_Speech.pdf`: The document that is used for the Q&A functionality.
+- `notebook.ipynb`: A Jupyter notebook for interactive exploration and development of the Q&A system.
 
 ## License
 This project is licensed under the MIT License - see the `LICENSE` file for details.
