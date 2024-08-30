@@ -1,0 +1,2 @@
+astra_db_application_token=AstraCS:ZJtQGHJLBkDQeswNzJPWkfQA:17fd287fb87c82d90dfe1462aeffdd0688dbfa3aa226c4400f634fb3d5c29759
+databse id=0d2c96fc-3705-479a-88b0-dbd9fc29102c
